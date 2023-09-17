@@ -42,7 +42,7 @@ Higher Dice coefficients and IoU values indicate that the model is effectively s
 
 **7. Result:**
 
-![](sample output.png)
+![](sample_output.png)
 
 | Model  | Dice Coefficient | Jaccard Index(IOU) |
 | ------ | ---------------- | ------------------ |
